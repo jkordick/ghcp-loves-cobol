@@ -1,0 +1,3 @@
+[submodule "cics-banking-sample-application-cbsa"]
+	path = cics-banking-sample-application-cbsa
+	url = https://github.com/cicsdev/cics-banking-sample-application-cbsa
