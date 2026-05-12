@@ -1,0 +1,5 @@
+.github/agents/speckit.*.md
+.github/prompts/speckit.*.md
+
+.specify/
+.vscode/
