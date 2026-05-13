@@ -1,3 +1,6 @@
 [submodule "cics-banking-sample-application-cbsa"]
 	path = cics-banking-sample-application-cbsa
 	url = https://github.com/cicsdev/cics-banking-sample-application-cbsa
+[submodule "aws-mainframe-modernization-carddemo"]
+	path = aws-mainframe-modernization-carddemo
+	url = https://github.com/aws-samples/aws-mainframe-modernization-carddemo
